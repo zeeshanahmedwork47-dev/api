@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-<div align="center">
-  <img src="assets/images/Screen.png" width="200", style="margin-left:100px;" />
+<div align="center" style="margin:100px;" >
+  <img src="assets/images/Screen.png" width="200", />
   <img src="assets/images/Screen.png" width="200" />
 </div>
 
