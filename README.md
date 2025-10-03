@@ -3,8 +3,8 @@
 A new Flutter project.
 
 <div align="center">
-  <img src="assets/images/Screen.png" width="200" hspace="20"/>
-  <img src="assets/images/Screen.png" width="200" hspace="20"/>
+  <img src="assets/images/Screen.png" width="200" hspace="30"/>
+  <img src="assets/images/Screen.png" width="200" hspace="30"/>
 </div>
 
 
